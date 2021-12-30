@@ -7,25 +7,20 @@ Access-what it is-name-paramter
 class are Pascal case
 Methods are Camelcase
 
+DATA TYPES:
 
-Primitive types-
-
-
-
+    Primitive types-
 
 
 
-Reference types-
+    Reference types-
 
 
 
-escape sequences-
+    escape sequences-
 
 
-constants-
+    constants-
 
 
-
-
-
-castings-
+    castings-
