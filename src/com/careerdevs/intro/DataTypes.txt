@@ -55,9 +55,13 @@ scanner in is what user inputs to program
 
 
 mortgage cala
+
 principal
+
 annual interest
+
 period
+
 mortgage
 
 
