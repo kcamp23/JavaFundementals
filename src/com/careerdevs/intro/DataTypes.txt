@@ -48,3 +48,26 @@ random- generatins a random number betwen 0-1 returns double
     needs to multiply to make larger scope, and round to not have decimals and onl whole numbers
 
 
+READING INPUT
+scanner always start with next
+scanner out is what prints to user
+scanner in is what user inputs to program
+
+
+mortgage cala
+principal
+annual interest
+period
+mortgage
+
+
+
+
+
+
+
+
+
+
+
+
