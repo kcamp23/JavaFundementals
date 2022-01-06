@@ -1,0 +1,34 @@
+Mosh Videos
+
+Getting Started
+ Anatomy of JAva
+
+     Function- q block of code that performs a task
+      Return type of a function:
+      void- returns nothing
+
+      Name of function- the purpose of the function
+
+      ()- parmeters of the function
+      {}- actual java code block Start on same line as function
+
+      Main function is called to start a program
+
+
+Class- a container for related functions ( supermarket isles or sections)
+ Every program will need a MAIN class
+
+ a method is a function that is part of a class
+
+ an access modifier- public, private......
+
+ Classes named with pascal
+
+MEthod named with Camelcase
+
+
+
+HOW JAVA IS EXECUTED
+    Java compilier is what makes java work across platforms.
+    Java Runtime Enviroment coverts to native code and makes them platform independant
+

@@ -1,0 +1,21 @@
+Function- a block of code that performs a task
+
+Class - conatiner for related functions
+
+Method- a function that is part of a class
+
+Int- intergers that are whole numbers
+
+Length- method used to find lenth of given assignment
+sort - method used to sort an array
+
+
+
+
+
+
+
+
+
+
+
