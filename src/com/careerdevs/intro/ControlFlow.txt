@@ -1,4 +1,37 @@
-package com.careerdevs.intro;
+INTRO:
+    Comparison operators
+    to comapre to see if they are equal or not.
+    =
+    ==- equal to each other boolean value
+    != - not equal
+    >- greater than
+    >=greater then or equal
+    <-less then
+    <=- less then or equal
 
-public class ControlFlow {
-}
+
+    Logical operators
+        && and
+       Evaluates the first statement first, only if its true does it move forward to the second one after the &&
+       || or
+        evaluates the first expression and decides if it is true. if first expression is true the second expression does not matter
+        ! not operator. it will reverse the value of the boolean operator
+
+        If statement
+
+        if first booloan is true, the following statement is executed, and finish code block
+
+       else if
+
+       else
+       as 3 clauses. expressions which need to be found true or false
+       want to keep all clauses symetrical and indented correctly to keeep them easy to read
+
+       you can only declare variable inside the code blocks,but then can not access variable outside of the block which it is declared
+       you want to declare as many variable outside of code block as possible to be able to access them throughout the program and code
+
+       set variable to a starting value
+
+
+
+
