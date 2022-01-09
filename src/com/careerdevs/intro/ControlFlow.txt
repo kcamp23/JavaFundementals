@@ -26,6 +26,8 @@ INTRO:
        else
        as 3 clauses. expressions which need to be found true or false
        want to keep all clauses symetrical and indented correctly to keeep them easy to read
+SIMPLIFY IF SATEMENTS
+
 
        you can only declare variable inside the code blocks,but then can not access variable outside of the block which it is declared
        you want to declare as many variable outside of code block as possible to be able to access them throughout the program and code
@@ -33,5 +35,23 @@ INTRO:
        set variable to a starting value
 
 
+TERNARY OPERATOR
+instead of having ongoing if else statements.
+condition ? if true, add value : other value
 
+SWITCH SATEMENT
+switch (role){
+    case "admin":
+        system.out.println("your an admin")
+        break;
+
+        case "modirator":
+        system.out.println("you are a modirator")
+        break
+
+        default:
+        System.out,prnln("you are a guest")
+
+}
+can be used either way more of a personal or company preference for which is a cleaner code
 
