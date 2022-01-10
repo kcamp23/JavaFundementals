@@ -70,3 +70,9 @@ BREAK AND CONTINUE
     continue bring the loop back to the begining of the loop to restart the loop
     if using a while true statement you MUST have a break in your code to make sure you dont get caught in an iffinite loop
 
+FOR EACH LOOP
+used to itierate over arrays or collections of data
+for (String fruit : fruits)
+for each only works to iterate going forward, would not be able to start at the end of an array or reverse
+also wont have access to the index of each item. if an idex is needed a for loop would be needed
+

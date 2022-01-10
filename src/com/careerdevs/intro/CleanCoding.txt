@@ -1,4 +1,25 @@
-package com.careerdevs.intro;
+CLEAN CODING
 
-public class CleanCoding {
+if you keep your code clean, breif and reusable it makes it more maintanable
+
+restructure and make new methods
+
+more then 20 or so lines you will need to make new methods
+access modifier (public or private) static(belongs to a class rathre then an object) return type(void, itn string)
+name(camelcase and name) () for parameters{} execute
+
+public static void greetUser(String name) {
+System.out.printLn("HEllo" + name);
+
 }
+
+REFACTORING
+    changing the structure of the code without changing its behavior. Finding new ways to make your code clean, easier to read, and most efficient
+
+    method should be between 5-10 lines of code per method
+    limit is usually 20 at most
+
+    seperate methods so they are cleaner but also so they can be used again in other programs and other parts of the code
+
+    EXTRACTING METHODS
+
