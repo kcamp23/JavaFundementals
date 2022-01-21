@@ -1,0 +1,78 @@
+INTRO:
+    Comparison operators
+    to comapre to see if they are equal or not.
+    =
+    ==- equal to each other boolean value
+    != - not equal
+    >- greater than
+    >=greater then or equal
+    <-less then
+    <=- less then or equal
+
+
+    Logical operators
+        && and
+       Evaluates the first statement first, only if its true does it move forward to the second one after the &&
+       || or
+        evaluates the first expression and decides if it is true. if first expression is true the second expression does not matter
+        ! not operator. it will reverse the value of the boolean operator
+
+        If statement
+
+        if first booloan is true, the following statement is executed, and finish code block
+
+       else if
+
+       else
+       as 3 clauses. expressions which need to be found true or false
+       want to keep all clauses symetrical and indented correctly to keeep them easy to read
+SIMPLIFY IF SATEMENTS
+
+
+       you can only declare variable inside the code blocks,but then can not access variable outside of the block which it is declared
+       you want to declare as many variable outside of code block as possible to be able to access them throughout the program and code
+
+       set variable to a starting value
+
+
+TERNARY OPERATOR
+instead of having ongoing if else statements.
+condition ? if true, add value : other value
+
+SWITCH SATEMENT
+switch (role){
+    case "admin":
+        system.out.println("your an admin")
+        break;
+
+        case "modirator":
+        system.out.println("you are a modirator")
+        break
+
+        default:
+        System.out,prnln("you are a guest")
+
+}
+can be used either way more of a personal or company preference for which is a cleaner code
+
+WHILE LOOP
+when you know exactly how many times you will need to implement an if statemtnyou are better off using a for loop.
+While loops work best when you are really not sure how many times it will need to be implemented
+
+while staments can also equal strings and input rather than just int
+
+
+DO WHILE LOOP
+    you check the condition last so it always gets executed at least once even if the condition isnt met
+
+BREAK AND CONTINUE
+    break allows to break out of the loop and not execute anything further in the loop
+    continue bring the loop back to the begining of the loop to restart the loop
+    if using a while true statement you MUST have a break in your code to make sure you dont get caught in an iffinite loop
+
+FOR EACH LOOP
+used to itierate over arrays or collections of data
+for (String fruit : fruits)
+for each only works to iterate going forward, would not be able to start at the end of an array or reverse
+also wont have access to the index of each item. if an idex is needed a for loop would be needed
+

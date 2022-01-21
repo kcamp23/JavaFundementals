@@ -1,0 +1,34 @@
+Notes for Mosh videos
+ class defines the general related function
+main begins the code and runs it
+a function inside of a class is a method
+
+Access-what it is-name-paramter
+class are Pascal case
+Methods are Camelcase
+
+DATA TYPES:
+
+    Primitive types-
+
+
+
+    Reference types-
+
+
+
+    escape sequences-
+
+
+    constants-
+
+
+    castings-
+
+
+CONTROL FLOW:
+
+CLEAN CODING:
+
+DEBUGGINH:
+

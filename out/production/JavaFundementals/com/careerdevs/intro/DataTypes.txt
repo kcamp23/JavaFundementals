@@ -1,0 +1,77 @@
+DATA TYPES
+    Variables are used to temp store data in the computer smemory
+    Escape sequence
+        \ wil ignore the character
+        \n newline in your code
+        \t tab
+    arrays
+            int [] numbers = new int [5];
+            number [0] = 1
+            number [1] = 2
+            when you print an array it prints the address in memory not the actual item
+            there is a class called as arrays
+            arrays.toString(numbers) - this will allow to actually print items vs just address
+            {} - can be used to add all items of array at once vs as individual items
+            int[] numbers = {1,2,3,4,5}
+            arrays have a fixed length
+
+Constant
+    Final as initializer makes it a constant so value can NOT be changed later on
+    final float pi = 3.14f;
+    all caps for constant variables PI
+
+arithmetic expressions
+    + - * / %
+    double or float for decimal
+    ++ post or pre to increment determined by when you want to increment
+    x = y++
+    x = ++y
+    agmented or compound operators are shorthand for changing the value for a var
+    x = x+2
+    x += 2
+
+    Order of operations remains the same as regular arithmatic
+    PLEASE EXCUSEMY DEAR AUNT SALLY
+
+casting
+    implicit casting - auto casting with no further things needed (under the hood)
+   explicit casting- when you manualy tell it how to cast the different data types
+   need to parse to mix types
+
+MAth Class
+round - round a floating to a whole number
+ceil -the next whole number
+floor- next smallest whole number
+max- the greater of two values
+min - the lesser of two values
+random- generatins a random number betwen 0-1 returns double
+    needs to multiply to make larger scope, and round to not have decimals and onl whole numbers
+
+
+READING INPUT
+scanner always start with next
+scanner out is what prints to user
+scanner in is what user inputs to program
+
+
+mortgage cala
+
+principal
+
+annual interest
+
+period
+
+mortgage
+
+
+
+
+
+
+
+
+
+
+
+
