@@ -1,0 +1,17 @@
+the essential building block of object oriented programming
+
+
+Class is the blueprint for creating ibjects
+
+object is the individual instance of the class
+ fields are states to be defined
+ method would be to alter a field
+
+
+ creating a classs
+ classes always have their own file
+ classes are named with pascal naming
+ access mdoifier (public, private) determines if other will have access
+ field are named with camaelcase
+ void- no value is being returned
+ 
