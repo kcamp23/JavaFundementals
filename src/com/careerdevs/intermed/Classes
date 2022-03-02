@@ -15,7 +15,7 @@ object is the individual instance of the class
  field are named with camaelcase
  void- no value is being returned
 
-
+Keep all similar things together in a class, dont want a variety of thing that dont belong and function together 
 
 
 
